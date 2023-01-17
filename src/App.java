@@ -1,5 +1,5 @@
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         String input = "BCABA";
         boolean found = false;
         char character = 0;

@@ -1,6 +1,6 @@
-## Getting Started
+## Description
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplikasi yang dapat menemukan huruf pertama yang terdapat pengulangan pada suatu string
 
 ## Folder Structure
 
